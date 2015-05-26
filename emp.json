@@ -1,10 +1,10 @@
 {
   "name": {
-    "de": "Modulname",
-    "en": "modulename"
+    "de": "Google-Streetview-Pano",
+    "en": "Google-Streetview-Pano"
   },
-  "slug": "your-slug",
-  "version": "x.y.z",
+  "slug": "google-streetview-pano",
+  "version": "0.0.1",
   "description": {
     "de": "Kurze Beschreibung",
     "en": "Short description"

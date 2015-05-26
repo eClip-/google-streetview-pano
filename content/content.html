@@ -1,6 +1,11 @@
-<!-- an example of an awesome HTML import -->
-<link rel="import" ng-href="{{base_url}}/assets/any_assets.html">
+<link rel="import" ng-href="{{config.polymer_assets_url}}/google-apis/google-apis.html">
+<link rel="import" ng-href="{{base_url}}/assets/google-streetview-pano.html">
 
-<!-- you have to use Custom Elements in order to include your own stylesheets -->
-<!-- you are not allowed to use the <style> tag here -->
-<h1>Just plain HTML</h1>
+<google-streetview-pano style="width: 100%; height: 800px;"
+  panoid="{{settings.panoid}}"
+  heading="330"
+  pitch="-2"
+  zoom="0.8"
+  apiKey="AIzaSyBVSjby2nzzL_ifgJIZRzxqq715vYhyTgM"
+  disableDefaultUI>
+</google-streetview-pano>

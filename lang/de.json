@@ -1,5 +1,4 @@
 {
-  "key": "Schlüssel",
-  "value": "Wert",
-  "translation": "Übersetzung"
+  "panoid": "Panorama-ID (Panoid)",
+  "panoid_info": "Bitte trage die gewünschte Panorama-ID ein!"
 }

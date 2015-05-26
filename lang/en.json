@@ -1,5 +1,4 @@
 {
-  "key": "Key",
-  "value": "Value",
-  "translation": "Translation"
+  "panoid": "Panorama-ID (Panoid)",
+  "panoid_info": "Please fill in the Panoid!"
 }
